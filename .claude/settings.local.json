@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Rscript scripts/03_scorecard_model.R)"
+    ]
+  }
+}

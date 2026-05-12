@@ -9,7 +9,7 @@ A production-style points-based credit scorecard built in R using Weight of Evid
 
 ## Project Overview
 
-This project builds an end-to-end credit risk scorecard on 150,000 consumer loan records from the *Give Me Some Credit* dataset. It follows the standard industry workflow — exploratory analysis, WoE binning, logistic regression, scorecard scaling, and threshold optimisation — producing a model that assigns each borrower an integer score where a higher score indicates lower default risk. Scorecards of this type are the backbone of retail lending decisions at banks and fintechs, valued for their auditability and regulatory transparency.
+This project builds an end-to-end credit risk scorecard on 150,000 consumer loan records from the *Give Me Some Credit* dataset. It follows the standard industry workflow, exploratory analysis, WoE binning, logistic regression, scorecard scaling, and threshold optimisation which produces a model that assigns each borrower an integer score where a higher score indicates lower default risk. Scorecards of this type are the backbone of retail lending decisions at banks and fintechs, valued for their auditability and regulatory transparency.
 
 ---
 
@@ -108,5 +108,5 @@ All outputs are written to `output/`.
 ## Author
 
 **Andy Zhang**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/andy-st-zhang)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/and-yz04)

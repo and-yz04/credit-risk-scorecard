@@ -1,1 +1,8 @@
-.claude/
+# Local config and cache files
+.DS_Store
+*.Rhistory
+*.RData
+*.Rproj.user
+/node_modules
+/.cache
+/.config
